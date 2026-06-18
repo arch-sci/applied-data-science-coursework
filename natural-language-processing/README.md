@@ -2,7 +2,7 @@
 
 Project for the NLP course: analyzing how media outlets frame a real-world event differently depending on political orientation.
 
-**Assignment:** — determine research question, scrape/collect dataset, NLP analysis (preprocessing, sentiment, topic modeling), 10-slide presentation, and report. Full details in `report.pdf`.
+**Assignment:** — determine research question, scrape/collect dataset, NLP analysis (preprocessing, sentiment, topic modeling), 10-slide presentation, and report. Full details in `NLP Project Report.pdf`.
 
 **Research question:** How do left-wing and right-wing English-language media differ in sentiment and topic framing when reporting on US actions against Nicolás Maduro?
 
